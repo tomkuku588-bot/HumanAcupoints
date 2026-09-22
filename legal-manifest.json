@@ -2,11 +2,10 @@
   "app": {
     "displayName": {
       "zh-CN": "人体位图解",
-      "en": "Human Acupoints"
+      "en": "Acupoints"
     },
-    "packageName": "com.myapp.li.rentixuewei",
-    "platform": "Android",
-    "version": "3.2.1"
+    "packageName": "com.xmgod.rentixuewei",
+    "platform": "HarmonyOS 5.0+"
   },
   "developer": {
     "contactEmail": "tomkuku588@gmail.com"
