@@ -1,0 +1,44 @@
+{
+  "app": {
+    "displayName": {
+      "zh-CN": "人体位图解",
+      "en": "Human Acupoints"
+    },
+    "packageName": "com.myapp.li.rentixuewei",
+    "platform": "Android",
+    "version": "3.2.1"
+  },
+  "developer": {
+    "contactEmail": "tomkuku588@gmail.com"
+  },
+  "legal": {
+    "version": "1.0.0",
+    "effectiveDate": "2026-09-22",
+    "lastUpdated": "2026-09-22",
+    "baseUrl": "https://tomkuku588-bot.github.io/HumanAcupoints/",
+    "documents": [
+      {
+        "type": "privacy-policy",
+        "title": {
+          "zh-CN": "隐私政策",
+          "en": "Privacy Policy"
+        },
+        "html": {
+          "zh-CN": "https://tomkuku588-bot.github.io/HumanAcupoints/privacy-policy.html?lang=zh",
+          "en": "https://tomkuku588-bot.github.io/HumanAcupoints/privacy-policy.html?lang=en"
+        }
+      },
+      {
+        "type": "user-agreement",
+        "title": {
+          "zh-CN": "用户协议",
+          "en": "User Agreement"
+        },
+        "html": {
+          "zh-CN": "https://tomkuku588-bot.github.io/HumanAcupoints/user-agreement.html?lang=zh",
+          "en": "https://tomkuku588-bot.github.io/HumanAcupoints/user-agreement.html?lang=en"
+        }
+      }
+    ]
+  }
+}
