@@ -1,8 +1,8 @@
 {
   "app": {
     "displayName": {
-      "zh-CN": "人体位图解",
-      "en": "Acupoints"
+      "zh-CN": "穴位图鉴",
+      "en": "Acupoint Atlas"
     },
     "packageName": "com.xmgod.rentixuewei",
     "platform": "HarmonyOS 5.0+"

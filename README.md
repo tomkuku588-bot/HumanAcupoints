@@ -1,6 +1,6 @@
-# 人体位图解协议页面
+# 穴位图鉴协议页面
 
-本仓库用于公开展示人体位图解（HarmonyOS，包名 `com.xmgod.rentixuewei`）的隐私政策和用户协议，供应用市场审核和用户查看。
+本仓库用于公开展示穴位图鉴（HarmonyOS，包名 `com.xmgod.rentixuewei`）的隐私政策和用户协议，供应用市场审核和用户查看。
 
 ## 页面
 
@@ -20,7 +20,7 @@
 
 ## 内容依据
 
-隐私政策和用户协议依据人体位图解 HarmonyOS 版（1.0.0，compatibleSdkVersion 5.0.0(12)）的实际行为编写：
+隐私政策和用户协议依据穴位图鉴 HarmonyOS 版（1.0.0，compatibleSdkVersion 5.0.0(12)）的实际行为编写：
 
 - 不申请任何系统权限（module.json5 无 requestPermissions）。
 - 不联网，无网络权限；全部图解数据内置在应用中。
